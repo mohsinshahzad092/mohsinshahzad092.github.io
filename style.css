@@ -1,0 +1,23 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+    background-color: black;
+    color: white;
+    
+}
+.fas{
+
+    color: rgb(111, 218, 152);
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: grey;
+}
+#abc{
+    color: rgb(79, 214, 124);
+
+}
